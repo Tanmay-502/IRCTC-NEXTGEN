@@ -51,7 +51,10 @@ redesigned irctc.png
 - Improved accessibility
 - Better mobile experience
 - Cleaner information hierarchy
-- 
+  
+## Design Preview
+![IRCTC NextGen](redesigned%20irctc.png)
+
 ## ACCelerate'26 Submission
 
 Designed to improve the train booking experience for millions of users.
